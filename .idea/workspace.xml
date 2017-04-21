@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ab4d8084-675c-44fe-9fa3-b159564e4f29" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/maven-archiver/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -773,12 +772,12 @@
       <updated>1492591043090</updated>
       <workItem from="1492591046959" duration="1476000" />
       <workItem from="1492595379199" duration="297000" />
-      <workItem from="1492596169266" duration="6046000" />
+      <workItem from="1492596169266" duration="6216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7819000" />
+    <option name="totallyTimeSpent" value="7989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
