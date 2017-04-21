@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab4d8084-675c-44fe-9fa3-b159564e4f29" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/exercise/fakedatabase/AuthenticatorTestIT.java" afterPath="$PROJECT_DIR$/src/test/java/exercise/fakedatabase/AuthenticatorTestIT.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/exercise/fakedatabase/UserFacadeTestIT.java" afterPath="$PROJECT_DIR$/src/test/java/exercise/fakedatabase/UserFacadeTestIT.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/maven-archiver/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,8 +69,8 @@
       <file leaf-file-name="AuthenticatorTestIT.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/exercise/fakedatabase/AuthenticatorTestIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="96" lean-forward="false" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="96" />
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/target/site/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -141,6 +140,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -771,15 +773,15 @@
       <updated>1492591043090</updated>
       <workItem from="1492591046959" duration="1476000" />
       <workItem from="1492595379199" duration="297000" />
-      <workItem from="1492596169266" duration="3467000" />
+      <workItem from="1492596169266" duration="6046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5240000" />
+    <option name="totallyTimeSpent" value="7819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -900,7 +902,7 @@
     <entry file="file://$PROJECT_DIR$/target/site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -925,8 +927,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise/fakedatabase/AuthenticatorTestIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="96" lean-forward="false" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="96" />
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
