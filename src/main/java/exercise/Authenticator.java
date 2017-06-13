@@ -55,6 +55,7 @@ public class Authenticator {
 
 
   public static void main(String[] args) {
+
     Authenticator authenticater = new Authenticator(new UserFacadeRealDB("pu_localDB"),new Mailer());
     System.out.println(authenticater.authenticateUser("Jan", "abcde", System.currentTimeMillis()));
     System.out.println(authenticater.authenticateUser("Jan", "afdds", System.currentTimeMillis()));
